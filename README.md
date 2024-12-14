@@ -8,9 +8,9 @@ I'm a **student of Engineering Physics** at Ca' Foscari University of Venice, wi
 - **Quantum Systems Simulation and Quantum Circuits** (Qiskit)
 
 ### 🛠️ Programming Languages & Tools
-- **Python**: Numpy, Pandas, Matplotlib, Pyomo
+- **Python**: Numpy, Qiskit, Pandas, DEAP, Pyomo
 - **R**: R and RStudio
-- **Quantum Computing**: Qiskit (in progress)
+- **Quantum Computing**: Qiskit 
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/manuel-martini-a2800924a/)
