@@ -5,7 +5,7 @@ I'm a **student of Engineering Physics** at Ca' Foscari University of Venice, wi
 - **Physics Complex Systems Simulations**
 - **Electric Vehicle Charging Infrastructure Optimization**
 - **Computational, Artificial Intelligence and Optimization Problems**
-- **Quantum Systems Simulation** (learning with Qiskit)
+- **Quantum Systems Simulation and Quantum Circuits** (Qiskit)
 
 ### 🛠️ Programming Languages & Tools
 - **Python**: Numpy, Pandas, Matplotlib, Pyomo
