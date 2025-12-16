@@ -1,32 +1,77 @@
-## Hello, I'm Manuel Martini 👋
+## 👋 Hi, I'm Manuel Martini
 
-I'm a **student of Engineering Physics** at Ca' Foscari University of Venice, with a strong passion for computational simulations and optimization. My current work focuses on:
+Engineering Physics graduate, currently pursuing a **Master’s degree in Quantum Technology & Engineering**.  
+My main interests lie at the intersection of **optimization, system engineering, and quantum / quantum-inspired methods**, with a strong focus on **real-world, industrially relevant problems**.
 
-- **Physics Complex Systems Simulations**
-- **Electric Vehicle Charging Infrastructure Optimization**
-- **Computational, Artificial Intelligence and Optimization Problems**
-- **Quantum Systems Simulation and Quantum Circuits** (Qiskit)
+---
 
-### 🛠️ Programming Languages & Tools
-- **Python**: Numpy, Qiskit, Pandas, DEAP, Pyomo
-- **R**: R and RStudio
-- **Quantum Computing**: Qiskit 
+## 🔍 Research & Technical Interests
+- Optimization & mathematical programming (LP, MILP, heuristic & hybrid methods)
+- Quantum & quantum-inspired algorithms
+- Numerical modeling of physical and engineered systems
+- System engineering, simulation, and performance analysis
+- Hardware-aware algorithm design
+- Applications to energy systems, manufacturing, logistics, and complex infrastructures
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/manuel-martini-a2800924a/)
-- [Instagram](https://instagram.com/trappolita)
+---
 
-<!--
-**manuelmarsh/manuelmarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Background
+- **BSc in Engineering Physics** – 110/110 cum laude  
+- Solid foundation in:
+  - Quantum physics & quantum optics
+  - Solid-state physics
+  - Numerical methods & scientific computing
+  - Control, modeling, and simulation
+- Experience working in **high-pressure environments** and multidisciplinary teams
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+**Programming & Tools**
+- Python (NumPy, Pyomo, optimization libraries)
+- Scientific computing & numerical simulations
+- LaTeX
+
+**Optimization & Modeling**
+- Linear & nonlinear optimization
+- Resource allocation & scheduling
+- Energy systems modeling
+- Digital twins & system-level abstractions
+
+**Quantum / Advanced Topics**
+- Hybrid quantum–classical algorithms
+- Quantum-inspired numerical methods
+- Hardware constraints & noise modeling (conceptual level)
+
+---
+
+## 📂 Projects
+This repository contains projects related to:
+- Optimization of complex engineered systems
+- Simulation environments for validation of algorithms
+<!-- This is a comment --> Exploratory work on quantum / quantum-inspired optimization
+---
+
+## 🎯 Career Goal
+To work as a **systems / optimization engineer** in an **industrial or applied R&D environment**, contributing to:
+- scalable algorithms
+- robust system architectures
+- technology transfer from advanced physics to real-world applications  
+
+Long-term interest in **entrepreneurship and technology-driven innovation**.
+
+---
+
+## 🤝 Open to
+- Working Student positions
+- Industrial internships
+- Applied research collaborations
+- Optimization & systems engineering projects (quantum or non-quantum)
+
+---
+
+📫 **Contact**
+- LinkedIn: https://www.linkedin.com/in/manuel-martini-quantum/
+- Email: martinimanuel03@gmail.com
+
+
